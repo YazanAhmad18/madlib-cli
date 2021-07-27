@@ -9,6 +9,9 @@
 * third thing is to merge the userinput with script but this made by variables 
 
 
+
 | Assiment | Links                                                     |
 | -------- | ---------------------------------------------------------|
 | Lab: 03 - Lab: File IO and Exceptions  | [PR (1)]() |
+
+## this project made for education goals 
