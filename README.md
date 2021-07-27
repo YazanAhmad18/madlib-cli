@@ -14,4 +14,4 @@
 | -------- | ---------------------------------------------------------|
 | Lab: 03 - Lab: File IO and Exceptions  | [PR (1)](https://github.com/YazanAhmad18/madlib-cli/pull/1) |
 
-## this project made for education goals 
+## this project made for education goals  python 
